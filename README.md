@@ -1,8 +1,6 @@
 # JamesD11.github.io
 
-James Davis personal page-
-
-Bio
+James Davis Bio
 -------------
 Web developer adept with working in teams and within tight timeframes. Proficient in concepts such as Node.js, Express,JavaScript, MySQL, MongoDB, HTML, CSS and MVC.
 
